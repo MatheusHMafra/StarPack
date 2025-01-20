@@ -1,7 +1,7 @@
 {
     "name": "StarPack",
     "version_number": "0.0.1",
-    "website_url": "https://github.com/MatheusHMafra/ModpackZinopack",
+    "website_url": "https://github.com/MatheusHMafra/StarPack",
     "description": "Contains 81 mods (Newest version: 0.0.1)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
