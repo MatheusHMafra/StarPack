@@ -1,6 +1,15 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
+## 0.1.0
+
+- Reworked the whole modpack
+
+<br>
+
+<details>
+<summary>Older versions</summary>
+
 ## 0.0.4
 
 - Removed 19 mods
@@ -26,11 +35,6 @@
   - darmuhsTerminalStuff
   - EnemiesScanner
   - SpectateDeathCause
-
-<br>
-
-<details>
-<summary>Older versions</summary>
 
 ## 0.0.3
 
