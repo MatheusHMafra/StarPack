@@ -1,14 +1,22 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 0.1.0
+## 0.1.1
 
-- Reworked the whole modpack
+- Removed 15 mods
+  - Mirage was not working
+- Added 1 mod
+- Updated 8 mods
+- Changed config for FullDarkness mod
 
 <br>
 
 <details>
 <summary>Older versions</summary>
+
+## 0.1.0
+
+- Reworked the whole modpack
 
 ## 0.0.4
 
